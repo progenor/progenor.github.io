@@ -1,0 +1,28 @@
+html{
+    background: linear-gradient(black, grey);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+h2{
+    font-family: "Ink Free", "MV Boli", sans-serif;
+    font-weight: bold;
+}
+
+li{
+    
+    color: black;
+    font-weight: bold;
+}
+
+div{
+    font-family: "Ink Free", "MV Boli", sans-serif;
+    background-color: rgba(255, 255, 0, 0.281);
+}
+
+span{
+    color: black;
+    font-weight: bold;
+}
