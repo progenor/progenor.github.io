@@ -1,3 +1,7 @@
-# progenor.github.io
+# Cheat Sheet
 
-this is a cheet sheet
+progenor.github.io
+
+
+
+this is a cheet sheet for me to use for learning
