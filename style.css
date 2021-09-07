@@ -32,3 +32,10 @@ div{
 span{
     font-weight: bold;
 }
+
+#aboutLink{
+    position: fixed; 
+    bottom: 0px;
+    right:15px; 
+
+}
