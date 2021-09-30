@@ -15,17 +15,6 @@ h2 {
   color: white;
 }
 
-li {
-  color: white;
-  font-weight: bold;
-  background-color: #808080;
-  margin-right: 30%;
-
-  border-style: groove;
-  border-color: rgb(39, 28, 28);
-  border-radius: 10px;
-}
-
 div {
   font-family: "Ink Free", "MV Boli", sans-serif;
   color: white;
@@ -39,4 +28,38 @@ span {
   position: fixed;
   bottom: 0px;
   right: 15px;
+}
+
+#table1 {
+  background-color: gray;
+  border-radius: 10px;
+  margin-right: 10%;
+}
+
+#table {
+  border: 2px solid rgb(70, 69, 69);
+  border-radius: 10px;
+  width: 100%;
+}
+th,
+td {
+  border: 1px solid rgb(20, 20, 20);
+}
+
+#altalanos {
+  width: 10%;
+  text-align: center;
+}
+
+#stuff {
+  width: 20%;
+  text-align: center;
+}
+
+#title {
+  width: 10%;
+  text-align: center;
+  color: crimson;
+  border-radius: 5px;
+  border: 3px solid black;
 }
