@@ -1,41 +1,42 @@
-html{
-    background: linear-gradient(black, grey);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-
+html {
+  background: linear-gradient(rgb(31, 31, 31), rgb(175, 173, 173));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
-body{
-    font-size: 19px;
+body {
+  font-size: 19px;
 }
 
-h2{
-    font-family: "Ink Free", "MV Boli", sans-serif;
-    font-weight: bold;
-    color: white;
+h2 {
+  font-family: "Ink Free", "MV Boli", sans-serif;
+  font-weight: bold;
+  color: white;
 }
 
-li{
-    
-    color: white;
-    font-weight: bold;
-    background-color: #808080;
-    margin-right: 30%;
+li {
+  color: white;
+  font-weight: bold;
+  background-color: #808080;
+  margin-right: 30%;
+
+  border-style: groove;
+  border-color: rgb(39, 28, 28);
+  border-radius: 10px;
 }
 
-div{
-    font-family: "Ink Free", "MV Boli", sans-serif;
-    color: white;
+div {
+  font-family: "Ink Free", "MV Boli", sans-serif;
+  color: white;
 }
 
-span{
-    font-weight: bold;
+span {
+  font-weight: bold;
 }
 
-#aboutLink{
-    position: fixed; 
-    bottom: 0px;
-    right:15px; 
-
+#aboutLink {
+  position: fixed;
+  bottom: 0px;
+  right: 15px;
 }
